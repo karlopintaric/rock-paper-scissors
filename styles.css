@@ -1,0 +1,28 @@
+.btn-container {
+    display: flex;
+    padding: 50px;
+    gap: 10px;
+    justify-content: center;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: rebeccapurple;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+.round-counter {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.score {
+    text-align: center;
+}
+
+.message {
+    text-align: center;
+}
